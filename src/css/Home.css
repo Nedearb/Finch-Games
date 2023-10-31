@@ -17,6 +17,7 @@
     font-family: "Montserrat", sans-serif;
     font-size: 18px;
     border-radius: 5px;
+    border-width: 0;
 }
 #splash {
     font-family: "JetBrains Mono", monospace;
